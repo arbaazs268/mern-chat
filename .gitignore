@@ -4,5 +4,7 @@
 /client/tailwind.config.js
 /client/public
 /client/node_modules
+/client/.eslintrc.cjs
+/client/vite.config.js
 
 /server/node_modules
