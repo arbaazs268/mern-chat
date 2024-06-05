@@ -8,3 +8,5 @@
 /client/vite.config.js
 
 /server/node_modules
+/server/package-lock.json
+/server/package.json
