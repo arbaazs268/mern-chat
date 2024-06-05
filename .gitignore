@@ -1,6 +1,9 @@
-package-lock.json
-package.json
-postcss.config.js
-tailwind.config.js
-vite.config.js
-public
+client/package-lock.json
+client/package.json
+client/postcss.config.js
+client/tailwind.config.js
+client/vite.config.js
+client/public
+client/node_modules
+
+server/node_modules
