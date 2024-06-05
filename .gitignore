@@ -2,7 +2,6 @@
 /client/package.json
 /client/postcss.config.js
 /client/tailwind.config.js
-/client/vite.config.js
 /client/public
 /client/node_modules
 
